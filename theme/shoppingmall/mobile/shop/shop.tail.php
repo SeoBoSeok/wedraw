@@ -59,11 +59,11 @@ $admin = get_admin("super");
         </div>
     </div>
     <ul id="ft_link">
-        <li><a href="<?php echo get_pretty_url('content', 'company'); ?>">회사소개</a></li>
+        <!-- <li><a href="<?php echo get_pretty_url('content', 'company'); ?>">회사소개</a></li> -->
         <li><a href="<?php echo get_pretty_url('content', 'privacy'); ?>">개인정보</a></li>
         <li><a href="<?php echo get_pretty_url('content', 'provision'); ?>">이용약관</a></li>
     </ul>
-	<p class="ft_copy">Copyright &copy; 2019 <?php echo $default['de_admin_company_name']; ?>. All Rights Reserved.</p>
+	<p class="ft_copy">Copyright &copy; 2022 <?php echo $default['de_admin_company_name']; ?>. All Rights Reserved.</p>
 	<a href="#" id="ft_to_top"><i class="fa fa-arrow-up" aria-hidden="true"></i><span class="sound_only">상단으로</span></a>
 
    <script>
