@@ -192,7 +192,7 @@ border:1px solid #558ab7 !important
 #wrapper {}
 #container {padding:0 0 10px;max-width:1120px;margin:0 auto}
 #container.idx-container {max-width:100%}
-#container .idx_only {max-width:1120px;margin:0 auto}
+#container .idx_only {max-width:1120px;margin:0 auto;padding-top: 100px;}
 #container .idx_only:after {display:block;visibility:hidden;clear:both;content:""}
 #container_title {margin:40px 0 10px;padding:0;font-size:1.4em;text-align:center;font-weight:bold}
 #container_title span {display:inline-block;padding-bottom:10px}
