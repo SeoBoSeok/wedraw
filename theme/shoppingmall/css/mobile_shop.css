@@ -136,6 +136,7 @@ border:1px solid #558ab7 !important
 #hd_wr.fixed {position:fixed;top:0;left:0;z-index:999}
 #hd_wr.fixed #hd_wr_inner {height:80px}
 #hd_wr.fixed #hd_wr_inner #logo {display:inline-block;float:left;margin-top:5px}
+#hd_wr.fixed #hd_wr_inner #logo img {height: 40px;}
 #hd_wr.fixed #btn_hdcate {display:none;margin-top:20px}
 #hd_wr.fixed .hd_right_btn {margin-top:10px}
 #hd_wr.fixed #sidr {display:none}
