@@ -910,6 +910,7 @@ box-shadow:0 0 8px rgba(65,98,255,0.8)}
 #sod_frm_paysel .iche_icon {background:url('../../../img/pay_icon2.png') no-repeat 15px 50% #fff;padding-top:13px}
 #sod_frm_paysel .hp_icon {background:url('../../../img/pay_icon3.png') no-repeat 24px 50% #fff}
 #sod_frm_paysel .card_icon {background:url('../../../img/pay_icon4.png') no-repeat 17px 50% #fff}
+#sod_frm_paysel .lb_icon {background:url('../../../img/kakaopay.svg') no-repeat 17px 50% #fff}
 
 #sod_frm #sod_bsk_tot {margin:10px}
 #sod_frm #sod_bsk_tot:after {display:block;visibility:hidden;clear:both;content:""}

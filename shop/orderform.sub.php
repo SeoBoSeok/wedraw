@@ -666,7 +666,7 @@ if($is_kakaopay_use) {
 
                 //이니시스 카카오페이 
                 if(isset($default['de_inicis_kakaopay_use']) && $default['de_inicis_kakaopay_use']) {
-                    echo '<input type="radio" id="od_settle_inicis_kakaopay" data-case="inicis_kakaopay" name="od_settle_case" value="inicis_kakaopay" '.$checked.' title="KG 이니시스 카카오페이"> <label for="od_settle_inicis_kakaopay" class="inicis_kakaopay lb_icon">KG 이니시스 카카오페이<em></em></label>'.PHP_EOL;
+                    echo '<input type="radio" id="od_settle_inicis_kakaopay" data-case="inicis_kakaopay" name="od_settle_case" value="inicis_kakaopay" '.$checked.' title="KG 이니시스 카카오페이"> <label for="od_settle_inicis_kakaopay" class="inicis_kakaopay lb_icon">카카오페이<em></em></label>'.PHP_EOL;
                     $checked = '';
                 }
 
