@@ -15,7 +15,7 @@ include_once(G5_THEME_SHOP_PATH.'/shop.head.php');
 <?php echo display_banner('메인', 'mainbanner.10.skin.php'); ?>
 <!-- } 메인이미지 끝 -->
 
-<?php if($default['de_type1_list_use']) { ?>
+<?php if(false) { ?>
 <!-- 히트상품 시작 { -->
 <section id="idx_hit" class="sct_wrap">
     <header>
@@ -57,7 +57,7 @@ $(function(){
 <!-- 최신상품 시작 { -->
 <section class="sct_wrap">
     <header>
-        <h2><a href="<?php echo shop_type_url('3'); ?>">최신상품</a></h2>
+        <h2><a href="<?php echo shop_type_url('3'); ?>">WEDRAW 대표상품</a></h2>
     </header>
     <?php
     $list = new item_list();
